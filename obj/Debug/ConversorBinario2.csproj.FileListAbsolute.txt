@@ -1,0 +1,8 @@
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\ConversorBinario2\ConversorBinario2\bin\Debug\ConversorBinario2.exe.config
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\ConversorBinario2\ConversorBinario2\obj\Debug\ConversorBinario2.Form1.resources
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\ConversorBinario2\ConversorBinario2\obj\Debug\ConversorBinario2.Properties.Resources.resources
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\ConversorBinario2\ConversorBinario2\obj\Debug\ConversorBinario2.csproj.GenerateResource.Cache
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\ConversorBinario2\ConversorBinario2\bin\Debug\ConversorBinario2.exe
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\ConversorBinario2\ConversorBinario2\bin\Debug\ConversorBinario2.pdb
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\ConversorBinario2\ConversorBinario2\obj\Debug\ConversorBinario2.exe
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\ConversorBinario2\ConversorBinario2\obj\Debug\ConversorBinario2.pdb
